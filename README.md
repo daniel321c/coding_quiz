@@ -1,1 +1,1 @@
-# coding_quiz
+# Playground for Practicing Leetcode
